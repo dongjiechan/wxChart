@@ -1,0 +1,5 @@
+/**index.wxss**/
+
+.pie{
+  height:300px;
+}
